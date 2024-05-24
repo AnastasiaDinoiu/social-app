@@ -11,7 +11,6 @@ Welcome to **social-app**! 🚀 <br>
 - 🔒 User authentication
 - 📝 Create, edit, and delete posts
 - ❤️ Like and comment on posts
-- 📰 View posts from followed users on feed
 - 👤 View user profiles
 - ✏️ Update user profile
 
